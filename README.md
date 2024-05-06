@@ -1,5 +1,5 @@
 # CISC3003-Team08-FinalProject
- Github Repo:<[https://github.com/HUIGUANHAO/CISC3003-Team08-FinalProject](https://github.com/DC127910-CUI/CISC3003-Team-Project/tree/main/Projectcode)>
+ Github Repo:<https://github.com/DC127910-CUI/CISC3003-Team-Project/tree/main/Projectcode>
 
 
 Hello, we are Team08: Pair02&03&23
